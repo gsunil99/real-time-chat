@@ -4,6 +4,7 @@
     --border: 2px solid #ddd;
     --left-msg-bg: #ececec;
     --right-msg-bg: #579ffb;
+    --center-msg-bg: #cbd5e1
   }
   
   html {
@@ -120,7 +121,11 @@
   .center-msg{
     justify-content: center;
   }
-  
+  .center-msg .msg-bubble {
+    background: var(--center-msg-bg);
+    color:  #404040;
+    border-bottom-right-radius: 0;
+  }
   .msger-inputarea {
     display: flex;
     padding: 10px;

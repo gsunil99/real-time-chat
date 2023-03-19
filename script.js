@@ -30,14 +30,17 @@ message.addEventListener("keypress", function(event) {
   var key = event.which || event.keyCode;
   if(key === 13 && this.value.trim() !== "")
   {
-    // sendMessage(this.value, true);
     socket.send(this.value)
     this.value = "";
   }
 });
 
+function sendMessage(){
+  socket.send(message.value)
+  message.value=""
+}
 
-function appendMessage( side, text) {
+function appendMessage(side, text) {
   //   Simple solution for small apps
   const msgHTML = `
     <div class="msg ${side}-msg">
