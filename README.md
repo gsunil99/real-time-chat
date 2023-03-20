@@ -3,8 +3,7 @@
 This application helps us to do group chat by joining room.
 
 <video
-src="
-https://user-images.githubusercontent.com/56781242/226248049-9358d2a1-b966-49c7-9747-6ab5398eee2c.mp4">
+src="https://user-images.githubusercontent.com/56781242/226248049-9358d2a1-b966-49c7-9747-6ab5398eee2c.mp4">
 </video>
 
 ## How to run the project!
