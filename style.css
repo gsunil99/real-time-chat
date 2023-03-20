@@ -132,6 +132,7 @@
     border-top: var(--border);
     background: #eee;
   }
+  
   .msger-inputarea * {
     padding: 10px;
     border: none;
