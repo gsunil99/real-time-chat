@@ -1,18 +1,17 @@
-## LinkedIn-RefferalConnect
+## Real-Time-Group-Chat
 
-Its such painful job of sending same referral message to multiple persons through connection requests, while you are looking out for new job. Instead of manually sending customized connection request, I have created script which sends customized connection requests to multiple employees of a company.
-
+This application helps us to do group chat by joining room.
 
 <video
-src="https://user-images.githubusercontent.com/56781242/208915905-ca655537-0ae8-4f3f-829a-cdacf55f8fda.mp4">
+src="
+https://user-images.githubusercontent.com/56781242/226248049-9358d2a1-b966-49c7-9747-6ab5398eee2c.mp4">
 </video>
 
 ## How to run the project!
 ### - Clone the project
-> ``` git clone  "https://github.com/gsunil99/linkedInReferralConnectionRequest" ```
+> ``` git clone  "https://github.com/gsunil99/real-time-chat" ```
  
- ### - Run Python file
- > ```python LinkedIn_referralConnect.py```
+ ### - Run index.html file
 
 
  ## Want to Contribute, if you find any bug or want to upgrade a feature,
@@ -20,7 +19,7 @@ Follow these steps:
 - Fork the project.
 - Clone the repository to your local environment.
 
-    ```$ git clone  "https://github.com/gsunil99/linkedInReferralConnectionRequest" ```
+    ```$ git clone  "https://github.com/gsunil99/real-time-chat" ```
     
 - Make new changes, commit the changes and upload that to your GitHub.
 
@@ -41,4 +40,4 @@ _Happy Coding._
 
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/linkedInReferralConnectionRequest/count.svg" alt ="Loading">
+<img align="left" src = "https://profile-counter.glitch.me/real-time-chat/count.svg" alt ="Loading">
