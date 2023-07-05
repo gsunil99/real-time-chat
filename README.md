@@ -2,9 +2,8 @@
 
 This application helps us to do group chat by joining room. Implementation of backend using aws chalice and its deployed. Backend code available at https://aws.github.io/chalice/tutorials/wschat.html 
 
-<video
-src="https://user-images.githubusercontent.com/56781242/226248049-9358d2a1-b966-49c7-9747-6ab5398eee2c.mp4">
-</video>
+## Video
+[realtimechat](https://user-images.githubusercontent.com/56781242/226248049-9358d2a1-b966-49c7-9747-6ab5398eee2c.mp4)
 
 ## How to run the project!
 ### - Clone the project
